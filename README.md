@@ -3,7 +3,10 @@
 **Business Problem**: Ride-hailing platforms rely on a balanced marketplace between customers and drivers. However, high ride cancellations and operational inefficiencies disrupt this balance, leading to poor user experience, inefficient supply utilisation, and reduced repeat usage, hence impacting the revenue of the business. The data has July's month bookings.
 The goal is to identify key friction points in the booking journey that are hindering sustainable growth and revenue and propose data-backed insights to improve marketplace efficiency.
 
+
+
 ##Questions we solved to understand this problem statement:
+
 
 **#Question 1:**
 **What percentage of total booking demand is lost due to ride failures?**<br>
