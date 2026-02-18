@@ -45,7 +45,7 @@ Which time-of-day segment contributes the highest revenue leakage rate?<br>
 Certain time segments (e.g., peak hours or late night) may experience higher cancellation rates due to operational stress, driver availability issues, or traffic conditions.<br>
 **Reason for Assumption:** Revenue leakage is not uniformly distributed throughout the day.<br>
 Certain time segments (e.g., peak hours or late night) may experience higher cancellation rates due to operational stress, driver availability issues, or traffic conditions.<br>
-**Recommendation **:  By targeting high-leakage periods with focused supply optimisation and driver engagement strategies, the platform can reduce cancellation-driven losses and improve overall revenue efficiency.<br>
+**Recommendation** : By targeting high-leakage periods with focused supply optimisation and driver engagement strategies, the platform can reduce cancellation-driven losses and improve overall revenue efficiency.<br>
 
 
 
