@@ -31,7 +31,7 @@ What percentage of total lost revenue comes from the top 20% highest-risk locati
 
 #**Question 4:**
 If the cancellation rate reduces by 10%, how much additional revenue can be realised?<br>
-**Assumption **: A 10% reduction in ride cancellations (driver cancellations + incomplete rides) would convert 10% of currently lost rides into completed rides, thereby recovering equivalent lost revenue.<br>
+**Assumption** : A 10% reduction in ride cancellations (driver cancellations + incomplete rides) would convert 10% of currently lost rides into completed rides, thereby recovering equivalent lost revenue.<br>
 **Reason for Assumption** : A 10% reduction in ride cancellations (driver cancellations + incomplete rides) would convert 10% of currently lost rides into completed rides, thereby recovering equivalent lost revenue.<br>
 **Recommendation**: A 10% reduction in cancellations could recover approximately ₹ 1018342.70 in additional revenue.<br>
 
