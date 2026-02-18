@@ -6,7 +6,7 @@ The goal is to identify key friction points in the booking journey that are hind
 ##Questions we solved to understand this problem statement:
 
 #Question 1:
-What percentage of total booking demand is lost due to ride failures?
+What percentage of total booking demand is lost due to ride failures?<br>
 Assumption: We have considered ride failures when they have been cancelled by the driver or an incomplete ride due to many reasons. 
 Reason of Assumption: From a business point of view, since we have only one month of data, I have looked at the supply side. If we were to draw conclusions on the scope of improvement, I would start with the supply side first.
 Insights: Total 80% revenue we have lost due to ride failures. Revenue lost has a major impact on the business.
